@@ -1,1 +1,6 @@
 Giới thiệu bản thân:
+Name: Nguyen Quang Tuan
+DOB: 02/11/1995
+Hobbies: Play football & playstation 4
+Language: Vietnamese & Ruby
+Target Job: Dev Rubyyyy
