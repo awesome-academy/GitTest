@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Giá»›i thiá»‡u báº£n thÃ¢n:
+=======
+Name: Ğào Minh Tú	
+DOB: 24/05/1996
+Hobbies: Cafe
+Language: PHP expert
+Target Job: Project Manager
+>>>>>>> dadoiten3
