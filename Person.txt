@@ -1,1 +1,6 @@
 Giới thiệu bản thân:
+Name: Hoang Anh Tu
+DOB: 26/08/1996
+Hobbies: Sing
+Language: Ruby
+TargetJob: Dev Ruby
