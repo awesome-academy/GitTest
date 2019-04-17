@@ -1,1 +1,8 @@
 Giới thiệu bản thân:
+
+Name: Truong Thanh Phong
+DOB: 08/12/1996
+Hobbies: Football
+Language: PHP
+Target Job in 2 years : Group Leader
+
