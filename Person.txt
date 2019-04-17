@@ -1,1 +1,7 @@
 Giới thiệu bản thân:
+
+Name: Nguyen Duc Huy
+Date Of Birth: 15/03/1996
+Hobbies: Soccer
+Language: Swift
+Target Job: Junior iOS Developer
